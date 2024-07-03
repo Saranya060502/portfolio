@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Software Engineer Intern",
+      "organisation": "MPOnline",
+      "startDate": "Sept, 2022",
+      "endDate": "Oct2022",
+      "experiences": ["Worked on optimizing the website on user interface level", "resolved over 30 critical bugs"],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "Research Intern",
+      "organisation": "JEC Institue of Technology",
+      "startDate": "Aug, 2021",
+      "endDate": "Aug, 2022",
+      "experiences": ["Deduces several statistical measures to evaluate CBT exams", "got the paper published in IJITEE journal"],
+      "imageSrc": "history/microsoft.png"
+    },
+    {
+      "role": "Teaching Assistant",
+      "organisation": "JEC Institue of Technology ",
+      "startDate": "Apr, 2020",
+      "endDate": "Jun, 2020",
+      "experiences": [
+        "Taught the freshers C++",
+        "Taught DSA and resolved over 50 doubts "
+      ],
+      "imageSrc": "history/netflix.png"
+    }
+  ]

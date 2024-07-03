@@ -1,0 +1,26 @@
+[
+    {
+      "title": "ChatBot",
+      "imageSrc": "projects/project.png",
+      "description": "This chatbot would interact with you in the manner any human would.",
+      "skills": ["API Usage", "JS", "Node"],
+      "demo": "https://saranya060502.github.io/chat_bot/",
+      "source": "https://github.com/Saranya060502/chat_bot/tree/main"
+    },
+    {
+      "title": "Chrome Extension",
+      "imageSrc": "projects/project.png",
+      "description": "This extension would display real-time Cricket matches' position",
+      "skills": ["React", "Express", "JS"],
+      "demo": "https://github.com/Saranya060502/chrome_extension",
+      "source": "https://github.com/Saranya060502/chrome_extension"
+    },
+    {
+      "title": "Diabetes Detection",
+      "imageSrc": "projects/project.png",
+      "description": "This ML model helps to detect Diabetes via the symptoms of the patient",
+      "skills": ["Python modules", "Pandas"],
+      "demo": "https://github.com/Saranya060502/saranya-ml",
+      "source": "https://github.com/Saranya060502/saranya-ml"
+    }
+  ]
